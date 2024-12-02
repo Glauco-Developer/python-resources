@@ -31,3 +31,4 @@ result1 = average(10, 20, 30, 40)
 result2 = average(5, 10, 15)
 print(result1)
 print(result2)
+# %%
